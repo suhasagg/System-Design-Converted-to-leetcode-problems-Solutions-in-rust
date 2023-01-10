@@ -3,6 +3,8 @@
 
 ```Project Description For Netflix```
 
+
+
 Feature #1: Group Similar Titles
 
 Feature #2: Fetch Top Movies
@@ -57,6 +59,8 @@ DIY: Maximum Frequency Stack
 ``` Facebook```
 Project Description for Facebook
 
+
+
 Feature #1: Friend Circles
 
 Feature #2: Copy Connections
@@ -102,6 +106,8 @@ DIY: Construct a Binary Tree from Preorder and Inorder Traversal
 
 ```Search Engine```
 
+
+
 Project Description for Search Engine
 
 Feature #1: Store and Fetch Words
@@ -146,7 +152,11 @@ DIY: Combination Sum
 
 
 ``` Google Calendar```
+
+
 Project Description for Google Calendar
+
+
 
 Feature #1: Find Meeting Rooms
 
@@ -182,7 +192,10 @@ DIY: Longest Consecutive Sequence
 
 
 ``` Stock Scraper```
+
+
 Project Description for Stock Scraper
+
 
 Feature #1: Traversing DOM Tree
 
@@ -208,7 +221,10 @@ DIY: Maximum Subarray
 DIY: Best Time to Buy and Sell Stock
 
 ```UBER```
+
+
 Project Description for Uber
+
 
 Feature #1: Select Closest Drivers
 
@@ -247,7 +263,10 @@ DIY: Minimum Path Sum
 
 
 ``` Amazon```
+
+
 Project Description for Amazon
+
 
 Feature #1: Suggest Items for Free Delivery
 
@@ -316,7 +335,10 @@ DIY: Time-Based Key-Value Store
 DIY: Intersection of Two Arrays
 
 ``` Zoom```
+
+
 Project Description for Zoom
+
 
 Feature #1: Display Meeting Lobby
 
@@ -344,7 +366,9 @@ DIY: Rotate Image
 
 ```Plagiarism Checker```
 
+
 Project Description for Plagiarism Checker
+
 
 Feature #1: Possible Matches
 
@@ -356,7 +380,10 @@ DIY: Number of Matching Subsequences
 
 DIY: Minimum Window Subsequence
 
+
 ```Network```
+
+
 
 Project Description for Network
 
@@ -412,7 +439,11 @@ DIY: Add Two Numbers II
 
 DIY: Find Peak Element
 
+
+
 ``` Cyber Security```
+
+
 
 Project Description for Cyber Security
 
@@ -443,6 +474,7 @@ DIY: Find K Closest Elements
 
 
 ``` Operating System ```
+
 
 Project Description for Operating System
 
