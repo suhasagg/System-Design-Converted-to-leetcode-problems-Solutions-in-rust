@@ -1,6 +1,8 @@
 # System-Design-Converted-to-leetcode-problems-Solutions-in-rust
 
 
+
+
 ```Project Description For Netflix```
 
 
@@ -56,6 +58,8 @@ DIY: Permutations
 DIY: Maximum Frequency Stack
 
 
+
+
 ``` Facebook```
 Project Description for Facebook
 
@@ -102,6 +106,8 @@ DIY: Divide Chocolate
 DIY: Minimum Window Substring
 
 DIY: Construct a Binary Tree from Preorder and Inorder Traversal
+
+
 
 
 ```Search Engine```
@@ -151,6 +157,8 @@ DIY: Coin Change 2
 DIY: Combination Sum
 
 
+
+
 ``` Google Calendar```
 
 
@@ -191,7 +199,10 @@ DIY: Find Two Non-Overlapping Subarrays Each with Target Sum
 DIY: Longest Consecutive Sequence
 
 
+
+
 ``` Stock Scraper```
+
 
 
 Project Description for Stock Scraper
@@ -220,7 +231,10 @@ DIY: Maximum Subarray
 
 DIY: Best Time to Buy and Sell Stock
 
+
+
 ```UBER```
+
 
 
 Project Description for Uber
@@ -262,7 +276,10 @@ DIY: Kth Largest Element in an Array
 DIY: Minimum Path Sum
 
 
+
+
 ``` Amazon```
+
 
 
 Project Description for Amazon
@@ -334,7 +351,10 @@ DIY: Time-Based Key-Value Store
 
 DIY: Intersection of Two Arrays
 
+
+
 ``` Zoom```
+
 
 
 Project Description for Zoom
@@ -364,7 +384,9 @@ DIY: Validate the Binary Search Tree
 DIY: Rotate Image
 
 
+
 ```Plagiarism Checker```
+
 
 
 Project Description for Plagiarism Checker
@@ -381,7 +403,10 @@ DIY: Number of Matching Subsequences
 DIY: Minimum Window Subsequence
 
 
+
+
 ```Network```
+
 
 
 
@@ -441,7 +466,10 @@ DIY: Find Peak Element
 
 
 
+
+
 ``` Cyber Security```
+
 
 
 
