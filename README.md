@@ -1,7 +1,7 @@
 # System-Design-Converted-to-leetcode-problems-Solutions-in-rust
 
 
-Project Description For Netflix
+```Project Description For Netflix```
 
 Feature #1: Group Similar Titles
 
@@ -54,7 +54,7 @@ DIY: Permutations
 DIY: Maximum Frequency Stack
 
 
-3. Facebook
+``` Facebook```
 Project Description for Facebook
 
 Feature #1: Friend Circles
@@ -99,7 +99,8 @@ DIY: Minimum Window Substring
 
 DIY: Construct a Binary Tree from Preorder and Inorder Traversal
 
-4. Search Engine
+
+```Search Engine```
 
 Project Description for Search Engine
 
@@ -144,7 +145,7 @@ DIY: Coin Change 2
 DIY: Combination Sum
 
 
-5. Google Calendar
+``` Google Calendar```
 Project Description for Google Calendar
 
 Feature #1: Find Meeting Rooms
@@ -180,7 +181,7 @@ DIY: Find Two Non-Overlapping Subarrays Each with Target Sum
 DIY: Longest Consecutive Sequence
 
 
-6. Stock Scraper
+``` Stock Scraper```
 Project Description for Stock Scraper
 
 Feature #1: Traversing DOM Tree
@@ -206,7 +207,7 @@ DIY: Maximum Subarray
 
 DIY: Best Time to Buy and Sell Stock
 
-7. UBER
+```UBER```
 Project Description for Uber
 
 Feature #1: Select Closest Drivers
@@ -245,7 +246,7 @@ DIY: Kth Largest Element in an Array
 DIY: Minimum Path Sum
 
 
-8. Amazon
+``` Amazon```
 Project Description for Amazon
 
 Feature #1: Suggest Items for Free Delivery
@@ -314,7 +315,7 @@ DIY: Time-Based Key-Value Store
 
 DIY: Intersection of Two Arrays
 
-9. Zoom
+``` Zoom```
 Project Description for Zoom
 
 Feature #1: Display Meeting Lobby
@@ -340,7 +341,8 @@ DIY: Validate the Binary Search Tree
 
 DIY: Rotate Image
 
-10. Plagiarism Checker
+
+```Plagiarism Checker```
 
 Project Description for Plagiarism Checker
 
@@ -354,7 +356,8 @@ DIY: Number of Matching Subsequences
 
 DIY: Minimum Window Subsequence
 
-11. Network
+```Network```
+
 Project Description for Network
 
 Feature #1: Total Time
@@ -409,7 +412,7 @@ DIY: Add Two Numbers II
 
 DIY: Find Peak Element
 
-12. Cyber Security
+``` Cyber Security```
 
 Project Description for Cyber Security
 
@@ -439,7 +442,7 @@ DIY: Find K Closest Elements
 
 
 
-13. Operating System
+``` Operating System ```
 
 Project Description for Operating System
 
